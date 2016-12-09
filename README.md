@@ -8,5 +8,5 @@
 
 # How to open The Final File 
 - First download all files from github
-- Then you open the ntertainment_center.py in the python to see the code
+- Then you open the entertainment_center.py in the python to see the code
 - Then Double Click on the entertainment_center.py to see the result of Movie Trailer Project that I have created.
