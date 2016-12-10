@@ -2,9 +2,9 @@ import fresh_tomatoes
 import media
 
 toy_story = media.Movie("Toy Story",
-                        "A Story of a boy and his toys that come to life,
+                        "A Story of a boy and his toys that come to life",
                         "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
-                        "https://www.youtube.com/watch?v=KYz2wyBy3kc")
+                        "https://www.youtube.com/watch?v=ZZv1vki4ou4")
 #print(toy_story.storyline)
 avatar = media.Movie("Avatar",
                      "A marine on an alien planet",
@@ -13,7 +13,7 @@ avatar = media.Movie("Avatar",
 #print(avatar.storyline)
 #avatar.show_trailer()
 xXx_return_of_xander_cage = media.Movie("xXx: Return of Xander Cage",
-                         "This will also mark the first film produced",
+                        "This will also mark the first film produced",
                         "https://upload.wikimedia.org/wikipedia/en/7/73/XXx_Return_of_Xander_Cage_offcial_logo_poster.jpg",
                         "https://www.youtube.com/watch?v=MQEFmHsseaU")
 
@@ -35,4 +35,3 @@ movies = [toy_story, avatar, xXx_return_of_xander_cage, bad_moms, bang_bang,doct
 fresh_tomatoes.open_movies_page(movies)
 print(media.Movie.VALID_RATINGS)
 print(media.Movie.__doc__)
-
