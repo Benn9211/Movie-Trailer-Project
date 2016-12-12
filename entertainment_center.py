@@ -21,7 +21,8 @@ xXx_return_of_xander_cage = media.Movie("xXx: Return of Xander Cage",
                         "https://upload.wikimedia.org/wikipedia/en/7/73/XXx_Return_of_Xander_Cage_offcial_logo_poster.jpg",
                         "https://www.youtube.com/watch?v=MQEFmHsseaU")
 
-# In this section of python coding. I am using xXx: Return of Xander Cage Movie Trailer that is using sytext of media.py to genrate that infornation on this movie.
+'''In this section of python coding. 
+    I am using xXx: Return of Xander Cage Movie Trailer that is using sytext of media.py to genrate that infornation on this movie.'''
 bad_moms = media.Movie("Bad Moms",
                      "Three lady try to become a good moms",
                      "https://upload.wikimedia.org/wikipedia/en/7/70/Bad_Moms_poster.jpg",
