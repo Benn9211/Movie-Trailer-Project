@@ -8,7 +8,8 @@ toy_story = media.Movie("Toy Story",
                         "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=ZZv1vki4ou4")
 
-# In this section of python coding. I am using Toy Story Movie Trailer that is using sytext of media.py to genrate that infornation on this movie.
+'''In this section of python coding.
+   I am using Toy Story Movie Trailer that is using sytext of media.py to genrate that infornation on this movie.'''
 avatar = media.Movie("Avatar",
                      "A marine on an alien planet",
                      "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
