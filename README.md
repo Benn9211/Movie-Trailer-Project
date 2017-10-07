@@ -11,5 +11,5 @@
 - Then create a folder on your pc or mac system and name the folder Mivie trailer
 - Then download all files from github that I have provided to see the result off movie trailer
 - Then you open the entertainment_center.py in the python 2.7.12 IDL to see the code behind it or you can click on the file to see the code.
->Go to your Folder Movie Trailer
+> Go to your Folder Movie Trailer
 - Then Double Click on the `fresh_tomatoes` to see the result of Movie Trailer Project that I have created.
