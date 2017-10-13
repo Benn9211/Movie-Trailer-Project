@@ -4,7 +4,7 @@
 ## Movie Trailer Project
 * In here you see entertainment_center.py python file open that with python 2.7.12 IDL:
 
-> First download the python 2.7.12 on your Windows System or Mac. Here is the link for that [Click here](https://www.python.org/downloads/).
+> First download the python 2.7.12 on your Windows System or Mac. Here is the link for that [Click here](https://www.python.org/downloads/)
 - When you go there run the program and intall it in your system
 # How to open The Final File
 - To go to my github account click on this link [Click here](https://github.com).
