@@ -1,5 +1,5 @@
 
-# Udacity-Project #1
+# Udacity-Project # 1
 
 ## Movie Trailer Project
 * In here you see entertainment_center.py python file open that with python 2.7.12 IDL:
